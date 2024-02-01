@@ -1,6 +1,6 @@
 schemaVersion: 3
 meta:
-  sourceVersionId: 48ad0a37-265f-4865-b387-f1add5f54d17 # DO NOT CHANGE - Hex uses this to match up project versions when reimporting the file
+  sourceVersionId: 194829e7-0ec7-458d-9751-9243eda2ccab # DO NOT CHANGE - Hex uses this to match up project versions when reimporting the file
   description: ""
   projectId: 0a5a80dc-cc55-4cb6-9917-cd6d3a184410 # DO NOT CHANGE - Unique ID of the project from which this file was generated
   title: foo bar baz
@@ -30,6 +30,14 @@ cells:
         - type: paragraph
           children:
             - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "
+  - cellType: TEXT
+    cellId: 60e30758-c5ca-43d5-afb5-0345f2f1cc7e # DO NOT CHANGE - Hex uses this to match up cells when reimporting the file, and detect any changes to existing cells
+    cellLabel: null
+    config:
+      richText:
+        - type: paragraph
+          children:
+            - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "
 appLayout:
   visibleMetadataFields:
     - NAME
@@ -52,6 +60,17 @@ appLayout:
                   hideOutput: false
                   type: CELL
                   cellId: c12d34cd-7366-494b-a4fa-c991a27e8ec8
+                  sharedFilterId: null
+                  height: null
+                  showLabel: true
+        - columns:
+            - start: 0
+              end: 120
+              elements:
+                - showSource: false
+                  hideOutput: false
+                  type: CELL
+                  cellId: 60e30758-c5ca-43d5-afb5-0345f2f1cc7e
                   sharedFilterId: null
                   height: null
                   showLabel: true
